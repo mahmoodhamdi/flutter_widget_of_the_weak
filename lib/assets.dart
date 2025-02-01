@@ -20,13 +20,6 @@ abstract final class Assets {
   static const String image8 = '$images/image_8.jpg';
   static const String image9 = '$images/image_9.jpg';
   static const String image10 = '$images/image_10.jpg';
-  static const String image11 = '$images/image_11.jpg';
-  static const String image12 = '$images/image_12.jpg';
-  static const String image13 = '$images/image_13.jpg';
-  static const String image14 = '$images/image_14.jpg';
-  static const String image15 = '$images/image_15.jpg';
-  static const String image16 = '$images/image_16.jpg';
-  static const String image17 = '$images/image_17.jpg';
 
   //videos
   static const String video1 = '$video/video_1.mp4';
