@@ -1,5 +1,5 @@
 # Flutter Widget of the Weak
-
+[![wakatime](https://wakatime.com/badge/user/018c9017-daf8-45c1-be71-8b16fd238022/project/85ea9dc1-1ae2-4229-9b75-930159d1c8ee.svg)](https://wakatime.com/@mahmoud_hamdy/projects/srpesuhkin)
 A Flutter project dedicated to exploring and implementing various Flutter widgets, one widget at a time. Each implementation includes detailed documentation and practical examples to help developers understand and utilize Flutter's rich widget ecosystem.
 
 ## 🎯 Project Overview
