@@ -11,14 +11,70 @@ This project serves as a learning resource for Flutter developers, featuring:
 - Clean, maintainable code structure
 - Comprehensive documentation for each widget
 
-## 📱 Current Implementations
+## 📱 Implemented Widgets
+
+### Core Widgets
+
+- [x] SearchAnchor
+- [x] CarouselView
+- [x] VideoPlayer
+- [x] AspectRatio
+- [x] Stack
+- [x] CustomScrollView
+- [x] SliverToBoxAdapter
+- [x] GestureDetector
+- [x] PopupMenuButton
+- [x] AnimatedSwitcher
+
+### Layout Widgets
+
+- [x] Column
+- [x] Row
+- [x] Container
+- [x] Padding
+- [x] Align
+- [x] Spacer
+
+### Navigation & Structure
+
+- [x] SafeArea
+- [x] Scaffold
+
+## 📦 Packages Used
+
+- [x] video_player:
+  - Video playback functionality
+  - Custom controls
+  - Playback speed control
+  - Caption offset support
+
+## 🎥 Features Implemented
 
 ### SearchAnchor Widget
 
-- A customizable search interface with suggestions
-- Styled search bar with dynamic results
-- Smooth animations and transitions
-- Example implementation with fruit name suggestions
+- Custom styling and theming
+- Dynamic suggestions list
+- Smooth animations
+- Search filtering
+
+### CarouselView Widget
+
+- Custom image carousel
+- Smooth scrolling
+- Item snapping
+- Customizable dimensions
+- Splash effects
+
+### VideoPlayer Widget
+
+- Custom controls overlay
+- Playback controls (play/pause)
+- Volume control
+- Forward/Rewind
+- Playback speed adjustment
+- Progress indicator
+- Looping toggle
+- Caption offset control
 
 ## 🚀 Getting Started
 
@@ -56,13 +112,15 @@ flutter run
 
 ## 📂 Project Structure
 
-```
+```structure
 lib/
-├── app.dart          # App configuration and theme
-├── assets.dart       # Asset management
-├── home_view.dart    # Main screen layout
-├── main.dart         # Entry point
-└── search_anchor.dart # SearchAnchor implementation
+├── app.dart              # App configuration and theme
+├── assets.dart           # Asset management
+├── home_view.dart        # Main screen layout
+├── main.dart            # Entry point
+├── search_anchor.dart    # SearchAnchor implementation
+├── carousel_view.dart    # Carousel implementation
+└── video_player_view.dart # Video player implementation
 ```
 
 ## 🎨 Features
@@ -111,6 +169,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📫 Contact
 
-[LinkedIN](https://www.linkedin.com/in/mahmoud-hamdy-alashwah/en/)
+[LinkedIn](https://www.linkedin.com/in/mahmoud-hamdy-alashwah/en/)
 
 [WhatsApp](https://wa.me/201019793768)
